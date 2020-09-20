@@ -1,24 +1,6 @@
-# game-store
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<div align="center">
+  <center><img src="https://i.ibb.co/7Nf7sr9/1.png"/></center>
+  <hr/>
+  <h3>Projeto final do bloco de Front-end da faculdade Infnet.</h3>
+  <center><img src="https://i.ibb.co/6tb7TMN/2121.png"/></center>
+  </div>
